@@ -2,10 +2,12 @@
 #SSAFY Start Camp 챗봇 퀘스트
 광주_2반_김선일, 깃허브주소
 ---
-#I. 스펙(Specification)
-
+# I. 스펙(Specification)
 ---
-#II. 회고(Retrospective)
+# II. 회고(Retrospective)
+1. 베스트셀러 검색 기능
+* 사용자가 키워드(월간베스트, 주간베스트)를 입력해 챗봇에게 전송한 데이터를 분석한다.
+* 입력된 키워드가 사전 정의되지 않았을 경우, 키워드에 대한 가이드를 출력한다.
 ---
-#III. 보완 계획(Feedback)
+# III. 보완 계획(Feedback)
 ---
