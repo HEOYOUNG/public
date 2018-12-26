@@ -1,4 +1,7 @@
-
+---
+#SSAFY Start Camp 챗봇 퀘스트
+광주_2반_송병하, https://github.com/songbyeongha/combuy
+---
 ### Ⅰ. 스펙(Specification)
 
 ------
