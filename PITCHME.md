@@ -1,9 +1,9 @@
 ---
 # <span style="color:blue">2134</span>
-# <span style="color:blue">두글자 한명과 세글자 네명</span>
+<span style="color:blue">두글자 한명과 세글자 네명</span>
 ---
 # 팀원들의 이름과   
-# 별명, 성격  
+별명, 성격  
 # 연말 계획 및 12월 31일에 하고 싶은 것    
 ---
 # 허영   
@@ -13,7 +13,7 @@
 황토사우나에서 10분 견디기      
 ---
 
-![Alt text](/img/zoo.jpg)
+![Alt text](/zoo.jpg)
 ---
 # 김선일  
 별명 : 오트밀     
@@ -21,7 +21,7 @@
 송년회 하기     
 ---
 
-![Alt text](/img/b.jpg)
+![Alt text](/b.jpg)
 ---
 
 # 송병하  
@@ -30,14 +30,14 @@
 휴식하거나 취침     
 ---
 
-![Alt text](/img/mil.gif)
+![Alt text](/mil.gif)
 ---
 # 이수현  
 별명 : 이순신     
 성격 : 천연덕, 차분하다.   
 친구 만나기     
 ---
-<img src="/img/da.jpg" width="300" height="300">   
+<img src="/da.jpg" width="300" height="300">   
 
 ---
 # 정동준  
@@ -48,7 +48,7 @@
 
 ---
 
-![Alt text](/img/moo.jpg)
+![Alt text](/moo.jpg)
 ---
 # 감사합니다   
 
