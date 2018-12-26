@@ -1,6 +1,6 @@
 ---
 #SSAFY Start Camp 챗봇 퀘스트
-광주_2반_김선일, 깃허브주소
+광주_2반_김선일, https://github.com/kimseonili/bookbot
 ---
 # I. 스펙(Specification)
 1. 베스트셀러 검색 기능
